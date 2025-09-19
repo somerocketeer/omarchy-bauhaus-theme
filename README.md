@@ -2,9 +2,12 @@
 
 [![License](https://img.shields.io/github/license/somerocketeer/omarchy-bauhaus-theme)](LICENSE) [![Release](https://img.shields.io/github/v/release/somerocketeer/omarchy-bauhaus-theme?display_name=tag)](https://github.com/somerocketeer/omarchy-bauhaus-theme/releases)
 
+Updated for Omarchy v3.0!
+
 A Bauhaus-inspired dark theme with warm coral and sand accents over cool slate/teal surfaces.
 
-<img width="3840" height="2560" alt="screenshot-2025-09-14_22-21-06" src="https://github.com/user-attachments/assets/0ecf8f3b-f9e9-43d9-91ed-f129fdad62ba" />
+<img width="3840" height="2560" alt="screenshot-2025-09-18_23-31-45" src="https://github.com/user-attachments/assets/0a1b4d0f-12ec-414e-ade6-ac53ddf814ba" />
+
 
 ## Palette
 - Primary Background:   #101318 (deep slate-black)
@@ -34,5 +37,5 @@ Includes machine-readable values for:
 - ghostty.conf (terminal palette)
 - kitty.conf (terminal palette)
 - swayosd.css (OSD styling)
-- vscode.json (placeholder reference)
+- vscode.json (placeholder reference - coming soon!)
 
